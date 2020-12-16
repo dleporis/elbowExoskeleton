@@ -11,4 +11,4 @@ MYO - run install_myo_mex.m
 
 MYO - run MyoMex_Quickstart.m
 
-EPOS4 - run DemoEpos.m -> enjoy
+EPOS4 - run Exoprogram.m -> enjoy
