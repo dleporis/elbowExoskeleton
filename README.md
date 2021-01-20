@@ -1,5 +1,5 @@
 # elbowExoskeleton
-3D printed assistive exoskeleton project for uscular dystrophy patients
+3D printed assistive exoskeleton project for muscular dystrophy patients
 
 How to use:
 
